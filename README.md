@@ -34,6 +34,7 @@ I enjoy combining creativity and technical skills to develop practical solutions
   <a href="https://github.com/takouachemli">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
+   📫 Reach me at: **[takouachemli@gmail.com](mailto:takouachemli@gmail.com)**
 </p>
 
 ---
@@ -46,13 +47,13 @@ I enjoy combining creativity and technical skills to develop practical solutions
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Profile
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takouachemli&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takouachemli&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used programming languages" />
+  <a href="https://github.com/takouachemli?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore my repositories" />
+  </a>
 </p>
-
 ---
 
 ## 🚀 Featured Projects
