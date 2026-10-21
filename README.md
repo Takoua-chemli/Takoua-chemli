@@ -1,52 +1,101 @@
-<h1 align="center">👋 Hi, I'm Takoua Chemli</h1>
-<h3 align="center">💻 Full Stack Software Engineer | Passionate about Web & Mobile Development</h3>
-<p align="center">🌍 From Tunisia | 🎯 Currently focusing on building scalable web apps and modern UI experiences</p>
+# 👋 Hi, I'm Takoua Chemli
+
+### 💻 Software Developer | MSc Data Science Student | Web & Mobile Development
+
+📍 Verona, Italy | 🌍 Originally from Tunisia
 
 ---
 
-### 👩‍💻 About Me
-- 🎓 I'm a **Software Engineering student** passionate about full stack development  
-- 💡 I enjoy designing **creative, functional and user-friendly** web & mobile interfaces  
-- 🚀 Currently exploring **Node.js**, **React**, and **Cloud technologies**  
-- 🌱 I’m also learning **DevOps basics (Docker, CI/CD, Kubernetes)**  
-- 💬 Ask me about **Angular, React, Node.js, Flutter, Java, and MySQL**  
-- 📫 Reach me at **takouachemli@gmail.com**
+## 👩‍💻 About Me
+
+I'm a **Master's student in Data Science at the University of Verona**, with a background in software development and a passion for building modern, user-friendly web and mobile applications.
+
+I enjoy combining creativity and technical skills to develop practical solutions, explore new technologies, and solve real-world problems.
+
+- 🎓 Currently pursuing an MSc in Data Science at the University of Verona.
+- 💻 Interested in full-stack development, mobile applications, and data-driven solutions.
+- 📱 Experienced in developing projects using Flutter, Dart, and Firebase.
+- 📊 Exploring Python, SQL, data analysis, and visualization.
+- 🌱 Continuously learning and improving my software engineering skills.
+- 🤝 Open to internship opportunities, collaborative projects, and new challenges.
+- 📫 Reach me at: **[takouachemli@gmail.com](mailto:takouachemli@gmail.com)**
 
 ---
 
-### 🌐 Connect with me:
+## 🌐 Connect With Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/takoua-chemli-429093223/" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://www.facebook.com/chemli.takwa" target="_blank">
-  <img align="center" src="https://skillicons.dev/icons?i=facebook" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/takoua-chemli-429093223/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/chemli.takwa">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40" alt="Facebook" />
+  </a>
+  <a href="https://github.com/takouachemli">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,java,python,php,mysql,mongodb,flutter,dart,git,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,java,python,php,mysql,mongodb,flutter,dart,git,docker,figma" alt="Technologies and tools" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takouachemli&show_icons=true&theme=radical" alt="takouachemli stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takouachemli&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=takouachemli&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takouachemli&layout=compact&hide_border=true&theme=transparent" height="165" alt="Most used programming languages" />
 </p>
 
 ---
 
-### 🚀 Projects
-- 🧭 **SLAP App (Logistics App)** – Built with Flutter & Firebase  
-- 🎨 **DigitExpress Website** – React & Node.js e-commerce platform  
-- 🧮 **Employee Dashboard CRUD** – Angular + JSON Server  
-- 💬 **Portfolio Website** – Modern responsive portfolio using HTML, CSS, JS  
+## 🚀 Featured Projects
+
+### 🧭 SLAP App — Logistics Application
+A mobile application developed to support logistics workflows.
+
+- **Technologies:** Flutter, Firebase
+- **Focus:** Mobile application development and data management.
+
+### 🎨 DigitExpress — E-commerce Website
+An e-commerce project focused on modern web development and online shopping experiences.
+
+- **Technologies:** React, Node.js
+- **Focus:** Web development and user experience.
+
+### 🧮 Employee Dashboard — CRUD Application
+A dashboard project designed to manage employee information through CRUD operations.
+
+- **Technologies:** Angular, JSON Server
+- **Focus:** Frontend development and data management.
+
+### 💬 Portfolio Website
+A responsive portfolio website showcasing projects and web development skills.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Focus:** Responsive design and user-friendly interfaces.
 
 ---
 
-⭐ *“Code is like art — clean, structured, and full of creativity.”*  
+## 🎯 Current Goals
+
+- Strengthen my software development and data science skills.
+- Build practical projects using modern technologies.
+- Improve my knowledge of APIs, cloud technologies, and software engineering best practices.
+- Find opportunities to contribute to meaningful projects and grow professionally.
+
+---
+
+## 💡 My Philosophy
+
+*"Great software combines clean code, thoughtful design, and solutions that make a difference."*
+
+---
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
