@@ -34,7 +34,9 @@ I enjoy combining creativity and technical skills to develop practical solutions
   <a href="https://github.com/takouachemli">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-   📫 Reach me at: **[takouachemli@gmail.com](mailto:takouachemli@gmail.com)**
+   <a href="mailto:takoua.chemli9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" height="40" alt="Email" />
+  </a>
 </p>
 
 ---
